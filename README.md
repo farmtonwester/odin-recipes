@@ -1,0 +1,1 @@
+This project will be a simple recipe site and will serve as an exercise in HTML syntax. I will expand on the boilerplate we have used thus far, and this repo will be revisited later to implement CSS skills as we go.
